@@ -22,6 +22,10 @@ public class ColorWheelManager : MonoBehaviour {
         get { return point; }
     }
 
+    public void IncPoints()
+    {
+        point++;
+    }
 	void Start () {
         animator = ColorWheel.GetComponent<Animator>();
 
@@ -32,14 +36,16 @@ public class ColorWheelManager : MonoBehaviour {
     IEnumerator IELate() {
         yield return new WaitForSeconds(1);
         Item itm = null;
-
+        ColorObject clrObj = null;
         lstColorItem = InventoryManager.ins.items;
         lstColorSlot = InventoryManager.ins.slots;
 
         for (int i = 0; i < InventoryManager.ins.items.Count; i++)
         {
             itm = InventoryManager.ins.items[i].GetComponent<Item>();
+            clrObj = itm.GetComponent<ColorObject>();
             itm.delegateDrop += Spin;
+            clrObj.OnInserted += IncPoints;
         }       
     }
 

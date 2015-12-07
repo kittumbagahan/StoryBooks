@@ -66,7 +66,7 @@ public class Item : MonoBehaviour {
             //reparent happened
             if (delegateDrop != null) {
                 delegateDrop();
-                
+                transform.SetLocalZRot(transform.parent.GetLocalZRot());
             }
             //WordGameManager.ins.CheckWord();
         }

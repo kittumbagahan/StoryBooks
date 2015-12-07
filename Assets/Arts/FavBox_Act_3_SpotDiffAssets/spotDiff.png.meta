@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 171dd85cdf478cd47a674f4364aa5e90
+timeCreated: 1448427400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spotDiff_A_clone
+    21300002: spotDiff_A_diff
+    21300004: spotDiff_B_diff
+    21300006: spotDiff_B_clone
+    21300008: spotDiff_C_diff
+    21300010: spotDiff_C_clone
+    21300012: spotDiff_D_diff
+    21300014: spotDiff_D_clone
+    21300016: spotDiff_E_diff
+    21300018: spotDiff_E_clone
+    21300020: spotDiff_F_diff
+    21300022: spotDiff_F_clone
+    21300024: spotDiff_G_diff
+    21300026: spotDiff_G_clone
+    21300028: spotDiff_H_diff
+    21300030: spotDiff_H_clone
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: spotDiff_A_clone
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3189
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_A_diff
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3189
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_B_diff
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2708
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_B_clone
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2708
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_C_diff
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2287
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_C_clone
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2287
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_D_diff
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1800
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_D_clone
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1790
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_E_diff
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1308
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_E_clone
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1307
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_F_diff
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 859
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_F_clone
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 854
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_G_diff
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 364
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_G_clone
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 369
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_H_diff
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3207
+        width: 441
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spotDiff_H_clone
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3204
+        width: 441
+        height: 373
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

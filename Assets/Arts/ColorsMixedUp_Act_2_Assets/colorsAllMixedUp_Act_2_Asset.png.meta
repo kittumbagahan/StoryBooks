@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 8f7aa8a278b49b948923dbfe033b984d
+timeCreated: 1448527238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: colorsAllMixedUp_Act_2_Asset_0
+    21300002: colorsAllMixedUp_Act_2_Asset_1
+    21300004: colorsAllMixedUp_Act_2_Asset_2
+    21300006: colorsAllMixedUp_Act_2_Asset_3
+    21300008: colorsAllMixedUp_Act_2_Asset_4
+    21300010: colorsAllMixedUp_Act_2_Asset_5
+    21300012: colorsAllMixedUp_Act_2_Asset_6
+    21300014: colorsAllMixedUp_Act_2_Asset_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: colorsAllMixedUp_Act_2_Asset_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 559
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 558
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 544
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 555
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 297
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 38
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 37
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: colorsAllMixedUp_Act_2_Asset_7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 34
+        width: 295
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
